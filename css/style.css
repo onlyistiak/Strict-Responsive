@@ -69,6 +69,10 @@ body{
     background: #15A4FA;
 
 }
+
+.banner-text a{
+text-decoration: none;
+}
  .fa.fa-chevron-down{
 	margin-top: 88px;
     padding-bottom: 56px;
